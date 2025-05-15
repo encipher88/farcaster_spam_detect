@@ -35,7 +35,7 @@ This script checks a list of FIDs (Farcaster IDs) against a public spam dataset 
 ```
 4. Run the script:
 ```bash
-   python main.py
+   python spam_finder.py
 ```
 5. Check the output:
 
